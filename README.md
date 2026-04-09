@@ -1,6 +1,6 @@
-# 📝 Notion Work Log Updater
+AutoNotion
 
-Type what you did today → Gemini formats it → Notion page created automatically.
+Type what you did today → Groq formats it → Notion page created automatically.
 
 ---
 
